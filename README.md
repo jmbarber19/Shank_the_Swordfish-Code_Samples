@@ -2,7 +2,7 @@
 Code samples from the game Shank the Swordfish.
 These are particular examples of work I've down with gameplay programming in the MSU game development minor.
 
-Gameeplay:
+Gameplay:
     https://www.youtube.com/watch?v=Nb5lKoGyM_g
 
 Game Link:
