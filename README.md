@@ -1,4 +1,4 @@
-# Shank_the_Swordfish-Code_Samples
+# Shank the Swordfish Code Samples
 Code samples from the game Shank the Swordfish.
 These are particular examples of work I've down with gameplay programming in the MSU game development minor.
 
